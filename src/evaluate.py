@@ -1,8 +1,3 @@
-"""
-evaluate.py — Loads the trained model and processed test set, computes
-test loss/accuracy, generates a confusion matrix image, and writes
-metrics.json at the project root.
-"""
 import os
 import json
 import numpy as np

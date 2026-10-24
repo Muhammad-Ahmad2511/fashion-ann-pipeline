@@ -1,7 +1,3 @@
-"""
-prepare.py — Downloads Fashion-MNIST and saves raw arrays to data/raw/.
-No hyperparameters needed at this stage.
-"""
 import os
 import numpy as np
 from tensorflow.keras.datasets import fashion_mnist

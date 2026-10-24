@@ -1,8 +1,3 @@
-"""
-train.py — Builds and trains a Sequential ANN on Fashion-MNIST.
-Flatten -> Dense(ReLU) -> Dropout -> Dense(10, Softmax).
-Saves the trained model and training history.
-"""
 import os
 import numpy as np
 import yaml

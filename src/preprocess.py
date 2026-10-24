@@ -1,7 +1,3 @@
-"""
-preprocess.py — Normalizes raw Fashion-MNIST arrays to [0,1] and splits
-a validation set out of the training data. Saves results to data/processed/.
-"""
 import os
 import argparse
 import numpy as np
